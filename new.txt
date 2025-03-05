@@ -1,3 +1,7 @@
 this is new file 
 
+<<<<<<< HEAD
 this is another line deer
+=======
+this is new line.
+>>>>>>> be241e0112f2a2aec93ebcfacf41bdaf5441bbe7
